@@ -38,11 +38,9 @@ body {
 ul {
   margin: 0;
   padding: 0px;
-}
-li, 
-h2 {
   list-style: none;
 }
+
 input,
 button {
   outline: none;
