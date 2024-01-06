@@ -58,8 +58,7 @@ button:hover {
   color: #3a3a3a;
 }
 /* Heading */
-h1,
-h2 {
+.section__title {
   color: #333;
   font-weight: 700;
   font-size: 15px;
@@ -85,8 +84,8 @@ input[type="text"]:focus {
 }
 
 /* New Task */
-h1 {
-  display: block;
+.title {
+/*  display: block;*/
   margin: 0 0 20px;
 }
 input#new-task {
