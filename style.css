@@ -103,7 +103,11 @@ button {
   justify-content: space-between;
   align-items: center;
 }
-.list-item__checkbox,.list-item__label,.list-item__text,.button-edit,.button-delete {
+.list-item__checkbox,
+.list-item__label,
+.list-item__text,
+.button-edit,
+.button-delete {
   vertical-align: middle;
 }
 .list-item__checkbox {
